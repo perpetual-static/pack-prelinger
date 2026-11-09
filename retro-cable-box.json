@@ -3,7 +3,7 @@
   "id": "pack-prelinger",
   "name": "Prelinger Pack",
   "description": "Ephemeral films from the Prelinger Archives: driver's ed, the world of tomorrow, and social guidance.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "channels": [
     {
       "id": "drivers-ed",
@@ -15,61 +15,71 @@
         {
           "source": {
             "kind": "archive",
-            "identifier": "StopDriv1959"
+            "identifier": "StopDriv1959",
+            "file": "StopDriv1959_512kb.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "FreedomH1956"
+            "identifier": "FreedomH1956",
+            "file": "FreedomH1956_512kb.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "FreedomH1956_2"
+            "identifier": "FreedomH1956_2",
+            "file": "FreedomH1956_2.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Nonefort1957"
+            "identifier": "Nonefort1957",
+            "file": "Nonefort1957.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Building1948"
+            "identifier": "Building1948",
+            "file": "Building1948.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "DrivingTipsP"
+            "identifier": "DrivingTipsP",
+            "file": "DrivingTipsP.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Knightso1938"
+            "identifier": "Knightso1938",
+            "file": "Knightso1938.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "HighwayH1956"
+            "identifier": "HighwayH1956",
+            "file": "HighwayH1956.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "LincolnH1915"
+            "identifier": "LincolnH1915",
+            "file": "LincolnH1915.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Californ1929"
+            "identifier": "Californ1929",
+            "file": "Californ1929.mp4"
           }
         }
       ],
@@ -87,79 +97,92 @@
         {
           "source": {
             "kind": "archive",
-            "identifier": "Designfo1956"
+            "identifier": "Designfo1956",
+            "file": "Designfo1956.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Century21964"
+            "identifier": "Century21964",
+            "file": "Century21964_512kb.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "ToNewHor1940"
+            "identifier": "ToNewHor1940",
+            "file": "ToNewHor1940_512kb.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "American1958"
+            "identifier": "American1958",
+            "file": "American1958.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "American1958_2"
+            "identifier": "American1958_2",
+            "file": "American1958_2_512kb.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "American1958_3"
+            "identifier": "American1958_3",
+            "file": "American1958_3_512kb.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "TouchofM1961"
+            "identifier": "TouchofM1961",
+            "file": "TouchofM1961.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "LeaveItt1940"
+            "identifier": "LeaveItt1940",
+            "file": "LeaveItt1940.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "tomorrow_television"
+            "identifier": "tomorrow_television",
+            "file": "tomorrow_television.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Tomorrow1941_2"
+            "identifier": "Tomorrow1941_2",
+            "file": "Tomorrow1941_2.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Frontier1937"
+            "identifier": "Frontier1937",
+            "file": "Frontier1937.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "world_of_tomorrow_2"
+            "identifier": "world_of_tomorrow_2",
+            "file": "world_of_tomorrow_2.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Chickeno1948"
+            "identifier": "Chickeno1948",
+            "file": "Chickeno1948.mp4"
           }
         }
       ],
@@ -177,85 +200,99 @@
         {
           "source": {
             "kind": "archive",
-            "identifier": "GoodEati1951"
+            "identifier": "GoodEati1951",
+            "file": "GoodEati1951.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "HowtoBeW1949"
+            "identifier": "HowtoBeW1949",
+            "file": "HowtoBeW1949.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "DatingDo1949"
+            "identifier": "DatingDo1949",
+            "file": "DatingDo1949.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "DateWith1950"
+            "identifier": "DateWith1950",
+            "file": "DateWith1950.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "GoodTabl1951"
+            "identifier": "GoodTabl1951",
+            "file": "GoodTabl1951.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "CindyGoe1955"
+            "identifier": "CindyGoe1955",
+            "file": "CindyGoe1955.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "ThisChar1950"
+            "identifier": "ThisChar1950",
+            "file": "ThisChar1950_512kb.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "AreYouRe1950"
+            "identifier": "AreYouRe1950",
+            "file": "AreYouRe1950.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "ShyGuy1947"
+            "identifier": "ShyGuy1947",
+            "file": "ShyGuy1947.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "ActYourA1949"
+            "identifier": "ActYourA1949",
+            "file": "ActYourA1949.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "HabitPat1954"
+            "identifier": "HabitPat1954",
+            "file": "HabitPat1954.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "WhattoDo1950"
+            "identifier": "WhattoDo1950",
+            "file": "WhattoDo1950.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "Everyday1948"
+            "identifier": "Everyday1948",
+            "file": "Everyday1948.mp4"
           }
         },
         {
           "source": {
             "kind": "archive",
-            "identifier": "HowMuchA1958"
+            "identifier": "HowMuchA1958",
+            "file": "HowMuchA1958.mp4"
           }
         }
       ],
