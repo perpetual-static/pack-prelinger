@@ -1,0 +1,267 @@
+{
+  "plugin": 1,
+  "id": "pack-prelinger",
+  "name": "Prelinger Pack",
+  "description": "Ephemeral films from the Prelinger Archives: driver's ed, the world of tomorrow, and social guidance.",
+  "version": "1.0.0",
+  "channels": [
+    {
+      "id": "drivers-ed",
+      "num": 30,
+      "name": "DRIVER'S ED",
+      "category": "Ephemeral films",
+      "blurb": "Highways, safety films and the open road, 1915–1959.",
+      "sources": [
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "StopDriv1959"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "FreedomH1956"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "FreedomH1956_2"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Nonefort1957"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Building1948"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "DrivingTipsP"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Knightso1938"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "HighwayH1956"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "LincolnH1915"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Californ1929"
+          }
+        }
+      ],
+      "rules": {
+        "shuffleSeed": 1956
+      }
+    },
+    {
+      "id": "tomorrowland",
+      "num": 31,
+      "name": "TOMORROWLAND",
+      "category": "Ephemeral films",
+      "blurb": "The future as industry imagined it: kitchens, cars, cities.",
+      "sources": [
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Designfo1956"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Century21964"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "ToNewHor1940"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "American1958"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "American1958_2"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "American1958_3"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "TouchofM1961"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "LeaveItt1940"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "tomorrow_television"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Tomorrow1941_2"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Frontier1937"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "world_of_tomorrow_2"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Chickeno1948"
+          }
+        }
+      ],
+      "rules": {
+        "shuffleSeed": 1964
+      }
+    },
+    {
+      "id": "social-guidance",
+      "num": 32,
+      "name": "SOCIAL GUIDANCE",
+      "category": "Ephemeral films",
+      "blurb": "How to date, dress, eat and behave, 1947–1958.",
+      "sources": [
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "GoodEati1951"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "HowtoBeW1949"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "DatingDo1949"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "DateWith1950"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "GoodTabl1951"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "CindyGoe1955"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "ThisChar1950"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "AreYouRe1950"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "ShyGuy1947"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "ActYourA1949"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "HabitPat1954"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "WhattoDo1950"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "Everyday1948"
+          }
+        },
+        {
+          "source": {
+            "kind": "archive",
+            "identifier": "HowMuchA1958"
+          }
+        }
+      ],
+      "rules": {
+        "shuffleSeed": 1950
+      }
+    }
+  ]
+}
